@@ -1,5 +1,7 @@
 PODS:
-  - FFConfigsKit (0.1.0)
+  - FFConfigsKit (1.0.1):
+    - FFConfigsKit/temp (= 1.0.1)
+  - FFConfigsKit/temp (1.0.1)
 
 DEPENDENCIES:
   - FFConfigsKit (from `../`)
@@ -9,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FFConfigsKit: 7103ae69feebace8ba847dd646b77fddd560d6ac
+  FFConfigsKit: 23c97e3584f50e57f6296cc8f7200aa7657b17db
 
 PODFILE CHECKSUM: 9f7a627c820ef713cc480c09c67b792c668daeba
 

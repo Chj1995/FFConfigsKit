@@ -11,6 +11,7 @@
 #endif
 
 #import "FFConst.h"
+#import "FFConst.h"
 
 FOUNDATION_EXPORT double FFConfigsKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char FFConfigsKitVersionString[];
